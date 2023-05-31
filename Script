@@ -1123,3 +1123,4 @@ game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(108.52549743
  wait()
 game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(108.52549743652344, 19.417236328125, 1282.602294921875))
  wait()
+_G.FinishedTeleport = true
